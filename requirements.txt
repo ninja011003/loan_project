@@ -1,0 +1,7 @@
+streamlit
+pandas
+seaborn
+matplotlib
+streamlit-option-menu
+Pillow
+pickle5
