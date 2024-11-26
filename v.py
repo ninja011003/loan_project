@@ -8,6 +8,8 @@ packages = [
     "matplotlib",
     "streamlit-option-menu",
     "Pillow",
+    "scikit-learn",
+    "textblob",
       # Optional: standard pickle does not require an external library
 ]
 
